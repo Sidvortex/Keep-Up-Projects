@@ -23,7 +23,7 @@ interface SocialLink {
 const socialLinks: SocialLink[] = [
   {
     name: "GitHub",
-    url: "https://github.com",
+    url: "https://github.com/Sidvortex?tab=overview&from=2026-02-01&to=2026-02-11",
     icon: <Github size={22} />,
     gradient: "from-[#2a0a0a] to-[#1a0505]",
     glowColor: "rgba(200,30,30,0.25)",
@@ -31,7 +31,7 @@ const socialLinks: SocialLink[] = [
   },
   {
     name: "LinkedIn",
-    url: "https://linkedin.com",
+    url: "https://www.linkedin.com/in/siddharth-ravada-a032b52a2/",
     icon: <Linkedin size={22} />,
     gradient: "from-[#200808] to-[#150404]",
     glowColor: "rgba(180,20,20,0.2)",
@@ -39,15 +39,15 @@ const socialLinks: SocialLink[] = [
   },
   {
     name: "Twitter / X",
-    url: "https://twitter.com",
+    url: "https://x.com/CrisisBySid",
     icon: <Twitter size={22} />,
     gradient: "from-[#2a0a0a] to-[#180606]",
     glowColor: "rgba(220,40,40,0.2)",
     delay: 160,
   },
   {
-    name: "Instagram",
-    url: "https://instagram.com",
+    name: "Pinterest",
+    url: "https://in.pinterest.com/ravadasiddharth/",
     icon: <Instagram size={22} />,
     gradient: "from-[#250909] to-[#1a0505]",
     glowColor: "rgba(190,25,25,0.2)",
@@ -55,7 +55,7 @@ const socialLinks: SocialLink[] = [
   },
   {
     name: "Blog",
-    url: "https://medium.com",
+    url: "https://sidmindmirrorblog.vercel.app",
     icon: <BookOpen size={22} />,
     gradient: "from-[#2a0808] to-[#1a0404]",
     glowColor: "rgba(170,20,20,0.2)",
@@ -63,7 +63,7 @@ const socialLinks: SocialLink[] = [
   },
   {
     name: "YouTube",
-    url: "https://youtube.com",
+    url: "https://www.youtube.com/@SidMindMirror",
     icon: <Youtube size={22} />,
     gradient: "from-[#300a0a] to-[#1c0505]",
     glowColor: "rgba(210,35,35,0.25)",
@@ -71,7 +71,7 @@ const socialLinks: SocialLink[] = [
   },
   {
     name: "Portfolio",
-    url: "https://example.com",
+    url: "https://portfolio-omega-gold-60.vercel.app",
     icon: <Globe size={22} />,
     gradient: "from-[#220808] to-[#160404]",
     glowColor: "rgba(180,25,25,0.2)",
@@ -79,7 +79,7 @@ const socialLinks: SocialLink[] = [
   },
   {
     name: "Email",
-    url: "mailto:hello@example.com",
+    url: "mailto:ravadasiddharth@gmail.com",
     icon: <Mail size={22} />,
     gradient: "from-[#280909] to-[#180505]",
     glowColor: "rgba(200,30,30,0.2)",
